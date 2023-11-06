@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: go
-          image: jang1023/jeongeun:1.0
+          image: jang1023/shinhan:f2e8fc38d0db6ab22c6fa8f7959128b8ecb648fb
           ports:
             - containerPort: 8080
 ---
